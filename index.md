@@ -1,5 +1,16 @@
 ## Tim's Website
 
+![Tim with poi](http://timgerrits.com/wp-content/uploads/2017/01/cropped-LED_Poi.jpg)
+
+
+
+
+[<img src="http://timgerrits.com/wp-content/uploads/2017/02/orb_rainbow_1-300x225.jpg">](http://timgerrits.com/gesture-orb)
+
+[Gesture Orb](http://timgerrits.com/gesture-orb)
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/timgerrits/personal/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
